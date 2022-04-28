@@ -1,0 +1,12 @@
+sentence-transformers
+transformers
+torch
+snorkel
+sklearn
+
+joblib
+pandas
+numpy
+
+mle-logging
+pytest
