@@ -33,11 +33,6 @@ and show that weakly supervised normalizing flows compare favorably to standard 
 All datasets are integrated in the [Knodle](github.com/knodle/knodle) framework, and there you can download them.
 In scripts/preprocess you'll find code to preprocess and transform data into the needed format.
 
------
-
-## Notebooks
-
-In the folder ```notebooks/``` you can find an easy example.
 
 -----
 
